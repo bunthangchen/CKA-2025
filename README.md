@@ -1,35 +1,18 @@
 # Certified Kubernetes Administrator(CKA) 2024 
 
-This is the GitHub repository to host all the notes, diagrams, assignments, and resources from the CKA course published on YouTube.
-
-Note: If you found the content helpful, consider giving the repository a star ⭐
-
-**Checkout this [file](https://github.com/piyushsachdeva/CKA-2024/blob/main/%2340daysofkubernetes.md) for the #40daysofkubernetes challenge details**
-
-
-
-### Day0: Intro to the series
-[![Course Introduction](https://img.youtube.com/vi/6_gMoe7Ik8k/sddefault.jpg)](https://youtu.be/6_gMoe7Ik8k)
-- Course Introduction
-- Discord community server for assistance
-- Live QnA sessions every weekend
-- #40daysofkubernetes challenge
-
 ### Day 1: Docker Fundamentals
-**Status**: Video is live, check out 👉 [Day1](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day01) 👈 folder for notes and useful links ✅
-
 - What is Docker?
 - How is it different from Virtual Machines
 -  Docker Architecture
 -  Docker flow
 -  Docker commands
     
-### Day 2 Video: Dockerize an application
-**Status**: Video is live, check out 👉 [Day2](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day02) 👈 folder for notes and useful links ✅
+### Day 2 : Dockerize an application
+
 - What is Dockerfile, and how do you write it?
 - docker pull , push, tag etc
 
-## Day3 Video: Docker Multi-Stage Builds
+## Day3 : Docker Multi-Stage Builds
 **Status**: Video is live, check out 👉 [Day3](https://github.com/piyushsachdeva/CKA-2024/tree/main/Resources/Day03) 👈 folder for notes and useful links ✅
 - How to write a dockerfile for multistage build
 - Benefits of multi-stage builds

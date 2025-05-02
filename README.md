@@ -1,7 +1,7 @@
 # Certified Kubernetes Administrator(CKA) 2024 
 
 ### Day 1: Docker Fundamentals
-**Status**:  check out 👉
+**Status**:  check out 👉 [Resources/Day01](https://github.com/bunthangchen/CKA-2025/tree/d3d7a898a52f2cf82b19528145c94ec2fdbdb767/Resources/Day01)  folder for notes and useful links ✅
 - What is Docker?
 - How is it different from Virtual Machines
 -  Docker Architecture
@@ -9,7 +9,7 @@
 -  Docker commands
     
 ### Day 2 : Dockerize an application
-**Status**:  check out 👉
+**Status**:  check out 👉 [Resources/Day]02(https://github.com/bunthangchen/CKA-2025/tree/d3d7a898a52f2cf82b19528145c94ec2fdbdb767/Resources/Day02)
 - What is Dockerfile, and how do you write it?
 - docker pull , push, tag etc
 

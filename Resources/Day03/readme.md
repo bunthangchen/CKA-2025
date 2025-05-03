@@ -1,11 +1,6 @@
-# Day 3/40 - Multi Stage Docker Build - Docker Tutorial For Beginners - CKA Full Course 2024 ☸️
+# Day 3- Multi Stage Docker Build - Docker Tutorial For Beginners 
 
 
-## Check out the video below for Day3 👇
-
-[![Day 2/40 - How To Dockerize a Project - CKA Full Course 2024](https://img.youtube.com/vi/ajetvJmBvFo/sddefault.jpg)](https://youtu.be/ajetvJmBvFo)
-
-# Pre-requisites ( If you have followed Day2 video and/or already have Docker Setup, then skip this step)
 
 ## If you would like to use docker and Kubernetes sandbox environment , you can use below:
 ```

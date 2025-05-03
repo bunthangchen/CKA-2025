@@ -3,6 +3,7 @@
 
 ## What is Docker
 
+Docker is a software platform that automates the deployment of applications using containers. It packages software into standardized, lightweight containers that include everything needed to run the application, such as libraries, system tools, and runtime.
 ![image](https://github.com/piyushsachdeva/CKA-2024/assets/40286378/2f8eb0eb-8c2d-4460-8dbc-c43e1f3fce3e)
 
 
